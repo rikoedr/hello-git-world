@@ -4,7 +4,6 @@ Fokus Utama : Front-end (Web & Mobile)
 List for learning : 
 -> Pengenalan software engineering & internet.
 -> Git & Github 
--> Database 
 -> Basic Programming with JavaScript (Web) & Java (Mobile)
 -> HTML & CSS For Web or XML for Mobile
 -> Adobe XD / Figma
