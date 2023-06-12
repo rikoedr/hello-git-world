@@ -7,3 +7,5 @@ List for learning :
 -> Basic Programming with JavaScript (Web) & Java (Mobile)
 -> HTML & CSS For Web or XML for Mobile
 -> Adobe XD / Figma
+-> Object Oriented Programming in JavaScript & Java
+-> Design Pattern
