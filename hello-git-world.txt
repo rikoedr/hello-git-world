@@ -1,0 +1,6 @@
+Hello Git World! This is the file i've created :)
+
+Yang perlu dipelajari di bulan juni 2023 :
+- GIT & GITHUB
+- Unit testing
+- REST API
