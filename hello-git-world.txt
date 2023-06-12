@@ -4,3 +4,4 @@ Yang perlu dipelajari di bulan juni 2023 :
 - GIT & GITHUB
 - Unit testing
 - REST API
+- Buat Aplikasi Android Film Information
