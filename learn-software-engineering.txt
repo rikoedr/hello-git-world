@@ -1,0 +1,8 @@
+Poin-poin yang ingin dipelajari terkait software engineering.
+Fokus Utama : Front-end (Web & Mobile)
+
+List for learning : 
+-> Pengenalan software engineering & internet.
+-> Git & Github 
+-> Database 
+-> Basic Programming with JavaScript (Web) & Java (Mobile)
